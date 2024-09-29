@@ -12,7 +12,7 @@ function headFunc() {
         result.innerHTML = "you win the toss"
     } else if (num === 2 && head == "head") {
         // console.log(num);
-        result.innerHTML = "loss win the toss"
+        result.innerHTML = " you loss the toss"
     }
 }
 
